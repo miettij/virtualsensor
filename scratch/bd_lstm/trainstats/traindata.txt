@@ -1,0 +1,13 @@
+
+saved best step after: 499 minibatches
+Epoch: 0 minibatch: 499 avg_loss:0.13785132577642797
+
+saved best step after: 999 minibatches
+Epoch: 0 minibatch: 999 avg_loss:0.05116469395160675
+
+saved best step after: 1499 minibatches
+Epoch: 0 minibatch: 1499 avg_loss:0.038174732806161044
+Epoch: 0 loss: 0.06771151075731416
+
+saved best step after: 499 minibatches
+Epoch: 1 minibatch: 499 avg_loss:0.015362156294286252
