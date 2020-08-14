@@ -17,4 +17,4 @@ This repository is divided into 3 different directories:
 
 3. scratch
 - Includes directories for temporary results. All results should be moved to results directory.
-- trainstats subdirectory includes demoweights.pth that have been pretrained. Use them by running evaluate.py -file in the code directory.
+- trainstats subdirectory includes demoweights.pth that have been pretrained. Use them by running pretrained_demo.py -file in the code directory.
