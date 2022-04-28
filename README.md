@@ -1,3 +1,7 @@
+#### TODO:
+- Put this repository up to date
+- The min-max scaling is not necessary.
+
 This repository contains the implementation and demo samples of Approximation of Rotor Vibration with Bidirectional LSTM paper.
 
 This repository is divided into 3 different directories:
